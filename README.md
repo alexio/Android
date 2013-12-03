@@ -1,4 +1,3 @@
-Compass-Android
+A collection of simple android apps
 ===============
 
-Android app that acts as a compass and computes angles
